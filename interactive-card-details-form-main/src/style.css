@@ -228,10 +228,9 @@ form button{
         width: 100%;
         min-height: 30vh;
         background-image: url('./images/bg-main-mobile.png');
+        margin-top: 80px;
     }
-    #number{
-        margin-bottom: 50px;
-    }
+
     .cards{
         flex-direction: column-reverse;
         left: 61%;
