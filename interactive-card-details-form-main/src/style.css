@@ -252,7 +252,7 @@ form button{
     }
     #number{
         font-size: 1rem;
-        position: absolute;
+        position: relative;
         bottom: 80%;
     }
 }
