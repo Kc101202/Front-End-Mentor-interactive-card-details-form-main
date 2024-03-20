@@ -251,6 +251,6 @@ form button{
         max-width: 100%;
     }
     #number{
-        bottom: 5%;
+        bottom: 2px;
     }
 }
