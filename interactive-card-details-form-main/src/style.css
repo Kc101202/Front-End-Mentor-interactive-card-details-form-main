@@ -252,5 +252,6 @@ form button{
     }
     #number{
         bottom: 2px;
+        top: 2px;
     }
 }
