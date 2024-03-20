@@ -231,7 +231,7 @@ form button{
     }
     .cards{
         flex-direction: column-reverse;
-        left: 61%;
+        left: 65%;
         top: 60%;
         gap: 0;
     }
