@@ -250,4 +250,7 @@ form button{
     .right_section form{
         max-width: 100%;
     }
+    #number{
+        bottom: 10%;
+    }
 }
