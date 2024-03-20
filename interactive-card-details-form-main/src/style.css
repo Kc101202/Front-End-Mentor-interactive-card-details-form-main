@@ -203,7 +203,7 @@ form button{
 }
 @media screen and (max-width:1023px) {
     .front_card .card_container img,.front_card,.back_card img,.back_card{
-        width: 375px;
+        width: 300px;
     }
     .card_logo{
         width: 50px;
