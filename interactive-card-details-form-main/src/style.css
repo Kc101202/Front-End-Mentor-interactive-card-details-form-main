@@ -222,7 +222,7 @@ form button{
         flex-direction: column;
     }
     .front_card .card_container img,.front_card,.back_card img,.back_card{
-        width: 260px;
+        width: 250px;
     }
     .left_section{
         width: 100%;
