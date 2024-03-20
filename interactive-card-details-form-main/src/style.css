@@ -229,6 +229,9 @@ form button{
         min-height: 30vh;
         background-image: url('./images/bg-main-mobile.png');
     }
+    #number{
+        margin-bottom: 50px;
+    }
     .cards{
         flex-direction: column-reverse;
         left: 61%;
@@ -249,8 +252,5 @@ form button{
     } 
     .right_section form{
         max-width: 100%;
-    }
-    .card_container p.num {
-        margin-top: 80px;
     }
 }
