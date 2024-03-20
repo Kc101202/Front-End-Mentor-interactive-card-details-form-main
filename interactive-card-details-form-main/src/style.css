@@ -232,7 +232,7 @@ form button{
     .cards{
         flex-direction: column-reverse;
         left: 61%;
-        top: 70%;
+        top: 90%;
         gap: 0;
     }
     .back_card{
@@ -240,8 +240,6 @@ form button{
     }
     .front_card{
         z-index: 100;
-        position: fixed;
-        left: 10%;
     }
     .right_section{
         margin-top: 6rem;
