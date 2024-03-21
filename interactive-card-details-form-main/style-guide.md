@@ -32,38 +32,7 @@ The designs were created to the following widths:
 - Family: [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk)
 - Weights: 500
 
-@media screen and (max-width:600px) { 
-    /* CSS for mobile devices goes here. */
-    .container{
-        flex-direction: column;
-    }
-    .front_card .card_container img,.front_card,.back_card img,.back_card{
-        width: 260px;
-    }
-    .left_section{
-        width: 100%;
-        min-height: 30vh;
-        background-image: url('./images/bg-main-mobile.png');
-    }
 
-    .cards{
-        flex-direction: column-reverse;
-        left: 61%;
-        top: 50%;
-        gap: 0;
-    }
-    .back_card{
-        transform: translateY(70px);
-    }
-    .front_card{
-        z-index: 100;
-        left: 10%;
-    }
-    .right_section{
-        margin-top: 4rem;
-   
-    } 
- }
 =======
 
 
