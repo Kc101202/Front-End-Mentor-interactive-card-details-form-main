@@ -227,9 +227,9 @@ form button{
     .left_section{
         width: 100%;
         min-height: 30vh;
+        margin-bottom: 10px;
         background-image: url('./images/bg-main-mobile.png');
     }
-
     .cards{
         flex-direction: column-reverse;
         left: 61%;
@@ -244,7 +244,26 @@ form button{
         left: 10%;
     }
     .right_section{
+        position: relative;
         margin-top: 4rem;
-   
+        width: 80%;
+        height: 20%;
     } 
- }
+    .right_section form{
+        max-width: 100%;
+    }
+    #number{
+        font-size: 15px;
+        position: absolute;
+        bottom: 40%;
+    }
+    .card_container{
+        margin-bottom: 15px;
+    }
+   #date{
+        position: absolute;
+        padding-left: 150px;
+        bottom: 3px;
+        font-size: 11px;
+    }
+}
